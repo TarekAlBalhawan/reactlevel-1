@@ -9,7 +9,7 @@ function App() {
     <>
        
 
-    <h1>React App </h1>
+    <h1>React App v2 </h1>
 
 
     </>
