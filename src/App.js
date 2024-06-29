@@ -2,12 +2,12 @@
 
 
 
-function App() {
+
+
+function App () {
   return (
-    <>
-      <h1>React App v2</h1>
-    </>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
